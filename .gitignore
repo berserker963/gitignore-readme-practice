@@ -1,0 +1,20 @@
+# Python関係
+__pycache__/
+*.pyc
+
+# Java関係
+*.class
+
+# IDE関係
+.project
+.classpath
+
+# ログファイル
+*.log
+
+# その他
+toy/
+
+
+secret.txt
+tmp/
